@@ -1,4 +1,4 @@
 <?php
-print "diskatolol " . PHP_VERSION . "\n";
-print "pakebanget!\n";
+print "parisss" . PHP_VERSION . "\n";
+print "gntng!\n";
 ?>
